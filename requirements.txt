@@ -1,3 +1,0 @@
-streamlit
-openai
-streamlit-mic-recorder
